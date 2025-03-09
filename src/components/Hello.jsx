@@ -4,7 +4,7 @@ export const Hello = () => {
   return (
     <>
     <div>Hello</div>
-    <h2>Well come to app</h2>
+    <h2>Well come to app this is react vite app</h2>
     </>
   )
 }
